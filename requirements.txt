@@ -1,8 +1,8 @@
 streamlit
-pandas
-numpy
-scikit-learn
-catboost
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.6.1
+catboost==1.2.8
 imblearn
-joblib
-plotly
+joblib==1.5.1
+plotly==5.24.1
